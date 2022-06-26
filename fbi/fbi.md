@@ -92,6 +92,7 @@ We can now search for keywords, with the following information columns
 * Disambiguation Category
 * Additional Paths
 
+An example for "dog"
 ![Image](https://raw.githubusercontent.com/chongivan/guides/master/fbi/images/i1.jpg)
 
 Do notice that our keyword ranges are nicely formatted for quick use in our Algo Sheets as well 😉
