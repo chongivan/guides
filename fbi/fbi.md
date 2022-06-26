@@ -92,6 +92,8 @@ We can now search for keywords, with the following information columns
 * Disambiguation Category
 * Additional Paths
 
+![Image](https://raw.githubusercontent.com/chongivan/guides/master/fbi/images/i1.jpg)
+
 Do notice that our keyword ranges are nicely formatted for quick use in our Algo Sheets as well 😉
 
 
@@ -109,6 +111,7 @@ Type **one of the following letters and hit Enter** for the corresponding result
 | **t**     | TV        | Rows containing "tv"        |
 | **m**     | Magazines | Rows containing "magazine"  |
 
+![Image](https://raw.githubusercontent.com/chongivan/guides/master/fbi/images/i2.jpg)
 
 ##### Custom Search
 
