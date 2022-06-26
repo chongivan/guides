@@ -116,7 +116,7 @@ Type **one of the following letters and hit Enter** for the corresponding result
 
 ##### Custom Search
 
-If we want to filter our results with our own seach term, simply type `f mysearchterm` and hit Enter
+If we want to filter our results with our own search term, simply type `f mysearchterm` and hit Enter
 
 An example for passionate keywords
 ![Image](https://raw.githubusercontent.com/chongivan/guides/master/fbi/images/i3.jpg)
