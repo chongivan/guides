@@ -54,7 +54,7 @@ I would love to have included my App Token in this program, so I did a stress te
 
 #### Linux
 
-1. Update the system repositories
+1. Update system repositories
 ```
 sudo apt update
 ```
