@@ -100,7 +100,7 @@ Do notice that our keyword ranges are nicely formatted for quick use in our Algo
 
 #### Filters
 
-After we've done a [Keyword Search](#keyword-search), we can narrow down our results via filters
+**After** we've done a [Keyword Search](#keyword-search), we can narrow down our **results** via filters
 
 ##### Quick Search
 
@@ -118,6 +118,8 @@ Type **one of the following letters and hit Enter** for the corresponding result
 
 If we want to filter our results with our own seach term, simply type `f mysearchterm` and hit Enter
 
+An example for passionate keywords
+![Image](https://raw.githubusercontent.com/chongivan/guides/master/fbi/images/i3.jpg)
 
 #### Exit
 
